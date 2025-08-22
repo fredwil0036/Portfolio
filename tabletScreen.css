@@ -21,8 +21,7 @@
 
 @media (max-width: 900px) {
   .nav-list {
-    gap: 1.5rem;
-    font-size: 1.1rem;
+  visibility: hidden;
   }
   .profile-container {
     flex-direction: column;
