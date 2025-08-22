@@ -20,8 +20,8 @@
 }
 
 @media (max-width: 900px) {
-  .nav-list {
-  visibility: hidden;
+  .primary-navigation{
+    visibility: hidden;
   }
   .profile-container {
     flex-direction: column;
